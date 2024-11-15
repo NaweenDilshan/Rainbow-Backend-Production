@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.rainbow_sims.rainbow_SIMS.RainbowSimsApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 8.61 s - in com.rainbow_sims.rainbow_SIMS.RainbowSimsApplicationTests
